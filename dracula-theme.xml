@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<colorTheme id="99999" name="Lunula Theme" modified="" author="Chandan Marandi(chanSTACK18)">
+    <searchResultIndication color="#44475a" /> <!-- grey -->
+    <filteredSearchResultIndication color="#44475a" /> <!-- grey -->
+    <occurrenceIndication color="#44475a" underline="true" /> <!-- background -->
+    <writeOccurrenceIndication color="#44475a" underline="true" /> <!-- background -->
+    <findScope color="#44475a" /> <!-- selection -->
+    <deletionIndication color="#ffb86c" /> <!-- orange -->
+    <sourceHoverBackground color="#8be9fd" /> <!-- cyan -->
+    <singleLineComment color="#577997" italic="true" /> <!-- comment-->
+    <multiLineComment color="#577997" italic="true" /> <!-- comment-->
+    <commentTaskTag color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
+    <javadoc color="#6272a4" italic="false" /> <!-- comment -->
+    <javadocLink color="#8be9fd" italic="false" underline="true" strikethrough="false" /> <!-- cyan -->
+    <javadocTag color="#8be9fd" italic="false" /> <!-- cyan -->
+    <javadocKeyword color="#8be9fd" italic="false" /> <!-- cyan -->
+    <class color="#ff9d00" bold="false" underline="false" strikethrough="false" /> <!-- cyan -->
+    <interface color="#8be9fd" /> <!-- cyan -->
+    <method color="#5eb7ee" /> <!-- green -->
+    <methodDeclaration color="#5eb7ee" /> <!-- green -->
+    <bracket color="#f8f8f2" /> <!-- foreground -->
+    <number color="#FFE400" /> <!-- yollow -->
+    <string color="#14A76C" /> <!-- green -->
+    <operator color="#8be9fd" /> <!-- cyan (annoyingly class declaration too) -->
+    <keyword color="#5eb7ee" bold="false" /> <!-- pink -->
+    <annotation color="#50fa7b" /> <!-- green -->
+    <staticMethod color="#50fa7b" /> <!-- green -->
+    <localVariable color="#f8f8f2" /> <!-- foreground -->
+    <localVariableDeclaration color="#ff79c6" /> <!-- pink -->
+    <field color="#f8f8f2" /> <!-- foreground -->
+    <staticField color="#f8f8f2" /> <!-- foreground -->
+    <staticFinalField color="#bd93f9" /> <!-- purple -->
+    <deprecatedMember color="#ffb86c" underline="false" strikethrough="true" /> <!-- orange -->
+    <enum color="#bd93f9" /> <!-- purple -->
+    <inheritedMethod color="#50fa7b" /> <!-- green -->
+    <abstractMethod color="#50fa7b" /> <!-- green -->
+    <parameterVariable color="#79ABFF" /> <!-- orange -->
+    <typeArgument color="#8be9fd" /> <!-- cyan -->
+    <typeParameter color="#ffb86c" /> <!-- orange -->
+    <constant color="#ff5177" /> <!-- purple -->
+    <background color="#09131b" /> <!-- background -->
+    <currentLine color="#44475a" /> <!-- grey -->
+    <foreground color="#FFFFFF" /> <!-- foreground -->
+    <lineNumber color="#44475a" /> <!-- grey -->
+    <selectionBackground color="#FF652F80" /> <!-- orenge -->
+    <selectionForeground color="#FFFFFF" /> <!-- foreground -->
+</colorTheme>
